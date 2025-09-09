@@ -9,9 +9,7 @@ O usuário pode fazer perguntas, e o sistema responde com base no conteúdo do P
 1. Clone este repositório ou copie os arquivos para o seu computador.
 2. Certifique-se de ter o Python **3.9+** instalado.
 3. Crie e ative um ambiente virtual (opcional, mas recomendado)
-4. Instale as dependências:
-      - pip install -r requirements.txt
-      - pip install customtkinter pypdf requests
+
    
 ## Recursos
 
